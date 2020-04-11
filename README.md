@@ -1,4 +1,4 @@
-# Varsha
+#News Classification
 
 for running python code ie.,news.py
   the dataset used is dsjVoxArticles.tsv
